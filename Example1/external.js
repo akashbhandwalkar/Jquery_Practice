@@ -8,8 +8,7 @@ $(document).ready(function(){
 				$("#button1").click(function(){
 
 				    
-
-				    if(hide){
+					if(hide){
 				    	$("#panel1").show(1000);
 				    	$("#button1").html('Hide');
 				    }else{
